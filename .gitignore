@@ -1,0 +1,15 @@
+# Environment and secrets
+backend/.env
+*.env
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
